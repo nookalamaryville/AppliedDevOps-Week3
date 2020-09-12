@@ -9,7 +9,7 @@ http.createServer(function (request, response) {
 
    // Send the response body as "Hello World"
    response.end('Welcome to Week3 Assignment.\n')
-}).listen(3003)
+}).listen(3000)
 
 // Console will print the message
 console.log('Server running')
